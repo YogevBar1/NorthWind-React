@@ -1,0 +1,6 @@
+.AuthMenu {
+	position: absolute;
+    top: 30px;
+    right: 70px;
+    transform: scale(1.3);
+}

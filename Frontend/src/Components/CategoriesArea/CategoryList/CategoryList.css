@@ -1,0 +1,27 @@
+.CategoryList {
+    padding-top: 20px;
+  }
+  
+  .CategoryList > table {
+    margin: auto;
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 100%; /* Add width to make the table span the full width */
+  }
+  
+  .CategoryList th,
+  .CategoryList td {
+    padding: 10px; /* Add padding to give space around table cells */
+    border: 1px solid;
+    text-align: center; /* Center align the text within cells */
+  }
+  
+  .CategoryList img {
+    width: 65px;
+    height: 65px;
+    vertical-align: middle;
+    border: 1px solid;
+    object-fit: cover; /* Add object-fit property to maintain aspect ratio */
+    border-radius: 50%; /* Add border-radius for rounded image */
+  }
+  

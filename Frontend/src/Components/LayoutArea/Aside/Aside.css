@@ -1,0 +1,12 @@
+.Aside {
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    padding-top: 20px;
+}
+
+.Aside > .active{
+    color: green;
+    font-weight: bold;
+    font-family: Arial;
+}

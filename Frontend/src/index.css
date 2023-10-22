@@ -1,0 +1,14 @@
+html, body, #root{
+    margin: 0;
+    padding: 0;
+    height: center;
+    text-align: center;
+    background-image: linear-gradient(black,yellow);
+    color: white;
+    height: 100%;
+}
+
+a{
+    color: blue;
+}
+

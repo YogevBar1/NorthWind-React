@@ -1,0 +1,19 @@
+.ProductList > table , .ProductList th, .ProductList td {
+    margin: auto;
+    border: 1px solid;
+    border-collapse: collapse;
+	
+}
+
+.ProductList img{
+    width: 50px;
+    vertical-align: middle;
+    border: 1px solid;
+}
+
+.ProductList > a{
+    position: absolute;
+    right: 20px;
+    top: 50px;
+    transform: scale(1.5);    
+}
